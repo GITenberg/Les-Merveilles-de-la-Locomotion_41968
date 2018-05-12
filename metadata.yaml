@@ -1,0 +1,45 @@
+_repo: Les-Merveilles-de-la-Locomotion_41968
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bonnafoux, B.
+    alias: Bonnafoux, L.
+    gutenberg_agent_id: '32780'
+    url: http://www.gutenberg.org/2009/agents/32780
+  - agent_name: Marie, Adrien-Emmanuel
+    aliases:
+    - Marie, E. (Emmanuel)
+    - Marie, A. (Adrien)
+    birthdate: 1848
+    deathdate: 1891
+    gutenberg_agent_id: '41496'
+    url: http://www.gutenberg.org/2009/agents/41496
+  - agent_name: Jahandier, A.
+    gutenberg_agent_id: '41495'
+    url: http://www.gutenberg.org/2009/agents/41495
+covers:
+- cover_type: archival
+  image_path: 41968-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Deharme, E. (Ernest)
+    alias: Deharme, Ernest
+    birthdate: 1837
+    gutenberg_agent_id: '41494'
+    url: http://www.gutenberg.org/2009/agents/41494
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2013-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41968'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Locomotives -- History'
+- !lcsh 'Steam-engines -- History'
+- !lcc 'TJ'
+title: Les Merveilles de la Locomotion
+url: http://www.gutenberg.org/ebooks/41968
